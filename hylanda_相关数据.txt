@@ -1,0 +1,30 @@
+﻿远程共享文件的连接的ip：192.168.0.160 用户名：Share 密码：hylanda
+禅道网址：http://zentao.hylanda.com/index.php?m=my&f=index 登录号：liuxiaocha 密码：123456
+云分词：http://home.hylanda.com/show_5_19.html#param
+wiki:http://192.168.0.160/wiki/doku.php
+设计文档：http://192.168.0.160/wiki/doku.php?id=design_hailiang_api   密码：rerronhip78&
+Rtx：用户名liuxiaocha 密码abc123
+Elasticsearch的服务器：192.168.0.141、192.168.0.89
+
+线上的elasticSearch的服务器地址：http://10.47.51.190:9200/_plugin/head/
+线上的风控2.1地址：http://risk.hylanda.com
+
+
+svn服务器地址：
+风控2.1svn服务器地址：http://192.168.0.8/svn/isobar/finance/trunk
+风控-征信svn服务器地址：
+海量3.2svn服务器地址：http://192.168.0.8/svn/yiciqingbao/hailiang-platform
+海量3.1svn服务器地址：http://192.168.0.8/svn/yiciqingbao/hailiang/trunk
+
+测试机：192.168.0.147 hylanda  hylanda
+
+潘多拉1.0线上主机：
+       1. 主机1：10.161.234.221     密码：6d19f9GN95
+       2. 主机2：10.27.213.151      密码：ZAgDAJx5Ju
+
+风控线上主机：
+	1. 10.252.213.163 密码：d2dDOd9a04
+	2. 10.252.107.94  密码：d2dDOd9a04
+
+
+
